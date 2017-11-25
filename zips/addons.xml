@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.TKsComedy" version="2.1.1" name="TKsComedy" provider-name="Trent Bumgarner">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  	<import addon="script.module.buggalo" version="1.1.2"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Comedy Addon for TK's Builds</summary>
-    <description>We hope you enjoy this addon made for Comedy Videos.</description>
-    <platform>all</platform>
-  </extension>
+  
+<addon id="plugin.video.alice" name="Alice" version="1.0" provider-name="Alice">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.urlresolver" version="1.2.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en"></summary>
+        <description lang="en">The developer does not own any content found within this addon. All content is found across the web freely. The developer is in no way affiliated with Kodi or XBMC.</description>
+        <platform>all</platform>
+        <website>www.noobsandnerds.com</website>
+        <video_guide>xtOqLY5PJDY</video_guide>
+    </extension>
 </addon>
+  
+<addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.1" provider-name="Tahquitz">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.urlresolver" version="1.2.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>audio video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Wonderland</summary>
+        <description lang="en">We're off to Wonderland</description>
+        <platform>all</platform>
+        <website>www.lookingglass.rocks</website>
+        <video_guide></video_guide>
+    </extension>
+</addon>  
+  
 </addons>
