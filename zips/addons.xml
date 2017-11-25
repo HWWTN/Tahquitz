@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.TKsComedy" version="2.1.1" name="TKsComedy" provider-name="Trent Bumgarner">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Comedy Addon for TK's Builds</summary>
+    <description>We hope you enjoy this addon made for Comedy Videos.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>
