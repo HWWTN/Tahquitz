@@ -26,7 +26,7 @@
     </extension>
 </addon>
   
-<addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.1" provider-name="Tahquitz">
+<addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.1.01" provider-name="Tahquitz">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -49,6 +49,6 @@
         <website>www.lookingglass.rocks</website>
         <video_guide></video_guide>
     </extension>
-</addon>  
+</addo
   
 </addons>
