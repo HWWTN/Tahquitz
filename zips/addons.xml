@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
   
-  <addon id="repository.alicelevi" name="Alice Repository" version="1.0" provider-name="Alice, TaQ">
+ <addon id="repository.alice" name="Alice Repository" version="1.0" provider-name="Alice, TaQ">
 	<extension point="xbmc.addon.repository" name="Alice Repository">
 	<dir>
 		<info compressed="false">https://raw.githubusercontent.com/HWWTN/Tahquitz/master/zips/addons.xml</info>
@@ -19,7 +19,7 @@
 		<description></description>
 		<platform>all</platform>
 	</extension>
-</addon>
+</addon>>
   
 <addon id="plugin.video.alice" name="Alice" version="1.0" provider-name="Alice">
     <requires>
