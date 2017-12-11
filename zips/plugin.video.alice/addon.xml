@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.alice" name="Alice" version="1.0" provider-name="Alice">
+<addon id="plugin.video.alice" name="Alice" version="1.0.1" provider-name="Alice">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -17,7 +17,7 @@
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
         <summary lang="en"></summary>
-        <description lang="en">The developer does not own any content found within this addon. All content is found across the web freely. The developer is in no way affiliated with Kodi or XBMC.</description>
+        <description lang="en">Powered By Jen! The developer does not own any content found within this addon. All content is found across the web freely. The developer is in no way affiliated with Kodi or XBMC.</description>
         <platform>all</platform>
         <website>www.noobsandnerds.com</website>
         <video_guide>xtOqLY5PJDY</video_guide>
