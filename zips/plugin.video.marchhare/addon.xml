@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.3" provider-name="TaQ, Jen">
+<addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.3.3" provider-name="TaQ, Jen">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -16,8 +16,8 @@
     </extension>
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">This addon is not affiliated in any way shape or form with kodi or xbmc</summary>
-        <description lang="en">This addon does not host any streams</description>
+        <summary lang="en">A little of this.  A little of that.</summary>
+        <description lang="en">The developer does not own any content found within this addon. All content is found across the web freely. The developer is in no way affiliated with Kodi or XBMC.</description>
         <platform>all</platform>
         <website></website>
         <video_guide></video_guide>
