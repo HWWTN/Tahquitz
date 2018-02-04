@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.lookingglass" name="[COLOR gold]Looking[/COLOR] [COLOR purple]Through[/COLOR] [COLORaliceblue]The[/COLOR] [COLORgreen]Glass[/COLOR]" version="1.0.1" provider-name="Red Knight/Mad Hatter">
+<addon id="plugin.video.lookingglass" name="[COLOR gold]Looking[/COLOR] [COLOR purple]Through[/COLOR] [COLORaliceblue]The[/COLOR] [COLORgreen]Glass[/COLOR]" version="1.0.5" provider-name="Red Knight/Alice">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
