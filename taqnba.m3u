@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,NBA 1 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36273.ts
+#EXTINF:-1,SPORTS : NBA PASS 1 HD
+http://144.217.64.126:8080/live/toby1/toby1/31421.ts
+#EXTINF:-1,NBA 2 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36272.ts
+#EXTINF:-1,SPORTS : NBA PASS 2 HD
+http://144.217.64.126:8080/live/toby1/toby1/31419.ts
+#EXTINF:-1,NBA 3 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36271.ts
+#EXTINF:-1,SPORTS : NBA PASS 3 HD
+http://144.217.64.126:8080/live/toby1/toby1/31418.ts
+#EXTINF:-1,NBA 4 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36270.ts
+#EXTINF:-1,SPORTS : NBA PASS 4 HD
+http://144.217.64.126:8080/live/toby1/toby1/31417.ts
+#EXTINF:-1,NBA 5 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36269.ts
+#EXTINF:-1,SPORTS : NBA PASS 5 HD
+http://144.217.64.126:8080/live/toby1/toby1/31416.ts
+#EXTINF:-1,NBA 6 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36268.ts
+#EXTINF:-1,SPORTS : NBA PASS 6 HD
+http://144.217.64.126:8080/live/toby1/toby1/31415.ts
+#EXTINF:-1,NBA 7 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36267.ts
+#EXTINF:-1,SPORTS : NBA PASS 7 HD
+http://144.217.64.126:8080/live/toby1/toby1/31414.ts
+#EXTINF:-1,NBA 8 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36266.ts
+#EXTINF:-1,SPORTS : NBA PASS 8 HD
+http://144.217.64.126:8080/live/toby1/toby1/31413.ts
+#EXTINF:-1,NBA 9 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36265.ts
+#EXTINF:-1,SPORTS : NBA PASS 9 HD
+http://144.217.64.126:8080/live/toby1/toby1/31412.ts
+#EXTINF:-1,NBA 10 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36264.ts
+#EXTINF:-1,SPORTS :  NBA PASS 10 HD
+http://144.217.64.126:8080/live/toby1/toby1/31420.ts
+#EXTINF:-1,NBA 11 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36263.ts
+#EXTINF:-1,NBA 12 (60 FPS)
+http://144.217.64.126:8080/live/toby1/toby1/36262.ts
+#EXTINF:-1,NBA HD US
+http://144.217.64.126:8080/live/toby1/toby1/32175.ts
