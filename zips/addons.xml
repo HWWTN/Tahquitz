@@ -21,7 +21,7 @@
 	</extension>
 </addon>
   
-<addon id="plugin.video.alice" name="Alice" version="1.0.7" provider-name="Alice">
+<addon id="plugin.video.alice" name="Alice" version="1.0.8" provider-name="Alice">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -31,7 +31,7 @@
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
+        <import addon="script.module.resolveurl" version="5.0.0.5" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -110,7 +110,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.lionsden" name="Lions Den" version="2.0" provider-name="Cazza">
+<addon id="plugin.video.lionsden" name="Lions Den" version="2.1" provider-name="Cazza">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -120,14 +120,14 @@
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
+        <import addon="script.module.resolveurl" version="5.0.0.5" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.service" library="service.py" start="[login|startup]" />
     <extension point="xbmc.addon.metadata">
-      <summary lang="en"></summary>
+      <summary lang="en">noob video</summary>
       <summary lang="he"></summary>
       <platform>all</platform>
         <website>www.noobsandnerds.com</website>
@@ -135,7 +135,7 @@
     </extension>
 </addon>
 	
-<addon id="plugin.video.lookingglass" name="[COLOR gold]Looking[/COLOR] [COLOR purple]Through[/COLOR] [COLORaliceblue]The[/COLOR] [COLORgreen]Glass[/COLOR]" version="1.0.5" provider-name="Red Knight/Alice">
+<addon id="plugin.video.lookingglass" name="[COLOR gold]Looking[/COLOR] [COLOR purple]Through[/COLOR] [COLORaliceblue]The[/COLOR] [COLORgreen]Glass[/COLOR]" version="1.0.6" provider-name="Red Knight/Alice">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -145,7 +145,7 @@
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
+        <import addon="script.module.resolveurl" version="5.0.0.5" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
@@ -160,7 +160,6 @@
     </extension>
 </addon>
 
-	
 <addon id="plugin.video.marchhare" name="[COLORgoldenrod]The March Hare[/COLOR]" version="1.3.3" provider-name="TaQ, Jen">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
@@ -186,7 +185,7 @@
     </extension>
 </addon>
 	
-<addon id="plugin.video.queenofhearts" name="Queen of Hearts" version="1.1" provider-name="Alice">
+<addon id="plugin.video.queenofhearts" name="Queen of Hearts" version="1.3" provider-name="Alice">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
@@ -196,7 +195,7 @@
         <import addon="script.module.addon.common" version="2.0.0" />
         <import addon="script.module.xmltodict" version="0.9.0" />
         <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.urlresolver" version="1.2.0" />
+        <import addon="script.module.resolveurl" version="5.0.0.5" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
