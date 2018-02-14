@@ -189,6 +189,28 @@
         <video_guide></video_guide>
     </extension>
 </addon>
+
+<addon id="plugin.video.pipmashup" name="Pippy's Mash Up" version="0.0.2" provider-name="Grace and Pippy">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Music and fun videos for Kids</summary>
+		<description lang="en">We do not own or host any content, Graces' daughter</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<news>Removed Christmas and added Ellen</news>
+		<genre>kids,usa</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
 	
 <addon id="plugin.video.queenofhearts" name="Queen of Hearts" version="1.4" provider-name="Alice">
     <requires>
