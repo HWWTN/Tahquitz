@@ -1,0 +1,41 @@
+<plugin>
+<title>Kentucky Wildcats Tv</title>
+<link>plugin://plugin.video.youtube/user/KentuckyVids/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Uk Basketball Misc Videos</title>
+<link>plugin://plugin.video.youtube/user/UKBasketballLive/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Kentucky Basketball Replays 2017-18</title>
+<link>plugin://plugin.video.youtube/playlist/PLqnjgBGlBhRqNNeA97dlhZGtILrRrXRBr/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Kentucky Football Replays 2017</title>
+<link>plugin://plugin.video.youtube/playlist/PLqnjgBGlBhRr2ay9SjJnCBjp0ErlbHXDN/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Kentucky vs Louisville</title>
+<link>plugin://plugin.video.youtube/playlist/PLqnjgBGlBhRrPqfDSeaVf_TrnM9rxTdgq/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Kentucky Women's Basketball 2017-18</title>
+<link>plugin://plugin.video.youtube/playlist/PLqnjgBGlBhRrLkLzbXjaO_m0rYnrd8y9H/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+	<item>
+        <title>Kentucky vs Louisville 12-29-17</title>
+        <link>https://streamango.com/f/kmleqqolafnderfc/12_29_2017_Kentucky_vs_Louisville_720p_mkv_mp4</link>
+        <thumbnail></thumbnail>
+	</item>

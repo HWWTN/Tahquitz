@@ -1,0 +1,35 @@
+<dir>
+        <name>[B][COLORturquoise]Disney/Pixar [/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/Xml/pixar.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://archive.org/download/TaquitzWiz/disneypixar.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORivory]Dreamworks Animation [/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/MarchHare/wldreamworks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://archive.org/download/TaquitzWiz/dreamworks.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://archive.org/download/TaquitzWiz/fanart.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORviolet]Illumination Entertainment [/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/MarchHare/illumination.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://archive.org/download/TaquitzWiz/fanart.jpg</fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORlightcyan]Blue Sky Studios [/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/MarchHare/bluesky.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://archive.org/download/TaquitzWiz/fanart.jpg</fanart>
+</dir>

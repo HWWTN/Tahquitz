@@ -1,0 +1,42 @@
+ <dir>
+        <name>[B][COLORnavajowhite]Genre[/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/test/genretv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://archive.org/download/TaquitzWiz/fanart.jpg</fanart>
+</dir>
+
+<dir>
+      <title>[COLORnavajowhite]Trending Tv Shows[/COLOR]</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+ <dir>
+      <title>[B][COLORnavajowhite]Popular Tv Shows[/COLOR][/B]</title>
+      <tmdb>tv/popular</tmdb>
+    </dir>
+	
+	<dir>
+      <title>[B][COLORnavajowhite]Top Rated Tv Shows[/COLOR][/B]</title>
+      <tmdb>tv/top_rated</tmdb>
+    </dir>
+	
+    <dir>
+      <title>[B][COLORnavajowhite]Animation Tv Shows[/COLOR][/B]</title>
+      <tmdb>genre/shows/16</tmdb>
+    </dir>	
+	
+	<dir>
+        <name>[B][COLORnavajowhite]Tv Shows I Like[/COLOR][/B]</name>
+        <link>http://lookingglass.rocks/taquitz/Xml/tv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://archive.org/download/TaquitzWiz/shows.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>https://archive.org/download/TaquitzWiz/fanart.jpg</fanart>
+	</dir>
+
+<dir>
+        <title>[B][COLORsandybrown]Search TMDB [/COLOR][/B]</title>
+        <tmdb>search</tmdb>
+</dir>

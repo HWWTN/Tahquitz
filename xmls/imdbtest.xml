@@ -1,0 +1,101 @@
+<dir>
+    <title>Cloud9TV</title>
+    <thumbnail></thumbnail>
+    <m3u>https://raw.githubusercontent.com/DrizzleCast/database/master/TV.m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+</dir>
+
+<dir>
+    <title>Fluxus</title>
+    <thumbnail></thumbnail>
+    <m3u>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+</dir>
+
+<dir>
+    <title>Usa</title>
+    <thumbnail></thumbnail>
+    <m3u>https://raw.githubusercontent.com/HWWTN/Tahquitz/master/taq.m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+</dir>
+
+<dir>
+    <title>UK</title>
+    <thumbnail></thumbnail>
+    <m3u>https://raw.githubusercontent.com/HWWTN/Tahquitz/master/taquk.m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+</dir>
+
+<dir>
+    <title>Game Pass</title>
+    <thumbnail></thumbnail>
+    <m3u>https://raw.githubusercontent.com/HWWTN/Tahquitz/master/taqnba.m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+</dir>
+
+<dir>
+    <title>Test List</title>
+    <thumbnail></thumbnail>
+    <m3u>http://5.230.195.72:8900/get.php?username=EDUARDOCISNEROS&password=VAUGHNLIVE&type=m3u</m3u>
+    <fanart></fanart>
+    <info> </info>
+    </dir>
+
+       <item>
+        <title>[COLORfuchsia]Abc News [/COLOR]</title>
+        <link>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8?</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+       <item>
+        <title>[COLORfuchsia]Nasa Public [/COLOR]</title>
+        <link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
+        <thumbnail>http://i64.tinypic.com/2a8g9wj.jpg</thumbnail>
+        </item>	
+		
+		<item>
+        <title>[COLORfuchsia]Bloomberg [/COLOR]</title>
+        <link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+		<item>
+        <title>[COLORfuchsia]Weather Nation [/COLOR]</title>
+        <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+        <thumbnail></thumbnail>
+        </item>	
+		
+		<item>
+        <title>[COLORfuchsia]Fox Sports(Test) [/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.64.126:8080/live/toby1/toby1/13878.ts&amp;streamtype=TSDOWNLOADER;name=Fox Sports 1</link>
+        <thumbnail></thumbnail>
+        </item>	
+
+		<item>
+        <title>[COLORfuchsia]Espn(Test) [/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.64.126:8080/live/toby1/toby1/13859.ts&amp;streamtype=TSDOWNLOADER;name=Espn</link>
+        <thumbnail></thumbnail>
+        </item>		
+		
+		<item>
+        <title>[COLORfuchsia]Usa Network(Test) [/COLOR]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.64.126:8080/live/toby1/toby1/20944.ts&amp;streamtype=TSDOWNLOADER;name=USA Network</link>
+        <thumbnail></thumbnail>
+        </item>		
+		
+		<item>
+        <title>[COLORfuchsia]Fox Sports 1 [/COLOR]</title>
+        <link>http://144.217.64.126:8080/live/toby1/toby1/13878.ts</link>
+        <thumbnail></thumbnail>
+        </item>	
+
+				<item>
+        <title>[COLORfuchsia]Sec Network[/COLOR]</title>
+        <link>http://144.217.64.126:8080/live/toby1/toby1/20959.ts</link>
+        <thumbnail></thumbnail>
+        </item>				

@@ -1,0 +1,32 @@
+<items>
+        <item>
+        <title>[B][COLORgoldenrod]Latest Releases[/COLOR][/B]</title>
+        <link>http://lookingglass.rocks/taquitz/Xml/latest.xml</link>
+        <thumbnail>http://natbg.com/wp-content/uploads/2016/06/mountains-amazing-european-cityscape-euopean-nature-alps-lakes-cityscapes-towns-mountains-desktop-images.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORred]Freaked Out[/COLOR][/B]</title>
+        <link>http://lookingglass.rocks/taquitz/Xml/freak.xml</link>
+        <thumbnail>https://introvertami.files.wordpress.com/2014/09/stressed-out11.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[B][COLORspringgreen]Movies I Like [/COLOR][/B]</title>
+        <link>http://lookingglass.rocks/taquitz/Xml/movies.xml</link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORnavajowhite]Tv Shows I Like---Work In Progress[/COLOR][/B]</title>
+        <link>http://lookingglass.rocks/taquitz/Xml/tv.xml</link>
+        <thumbnail></thumbnail>
+        </item>
+		
+        <item>
+        <title>[B][COLORmidnightblue]Live [/COLOR][/B]</title>
+        <link>http://lookingglass.rocks/taquitz/Xml/iptv1.xml</link>
+        <thumbnail></thumbnail>
+        </item>		
+
+</items>

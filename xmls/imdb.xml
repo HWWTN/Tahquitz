@@ -1,0 +1,40 @@
+Mister-X, [04.01.18 17:03]
+<dir>
+<title>IMDB Popular</title>
+<imdburl>movies/popular</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB Most Voted</title>
+<imdburl>movies/voted</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB Trending</title>
+<imdburl>movies/trending</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB TOP 100 Gangster List</title>
+<imdburl>list/ls001818278</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB TOP 100 Comedy List</title>
+<imdburl>list/ls009668747</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB TOP 100 Fantasy List</title>
+<imdburl>list/ls009669258</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB TOP 100 Horror List</title>
+<imdburl>list/ls000007562</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB TOP 100 Crime List</title>
+<imdburl>list/ls009668704</imdburl>
+</dir>
